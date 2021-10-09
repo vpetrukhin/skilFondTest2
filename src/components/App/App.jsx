@@ -24,7 +24,7 @@ function App() {
         current.removeEventListener("scroll", scrollHandler);
       }
     };
-  });
+  }, [countNews]);
 
   return (
     <div className="app">
