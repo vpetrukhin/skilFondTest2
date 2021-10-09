@@ -1,0 +1,9 @@
+.novetly { 
+  flex: 1 0 280px;
+  margin: 0 auto;
+  padding: 10px;
+}
+.novetly__img {
+  display: block;
+  width: 100%;
+}
